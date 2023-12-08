@@ -1,6 +1,6 @@
-### Hi there 👋 I am Chandni 🌙 ! Naam Toh Suna hi Hoga 😆
+# Hi there 👋 I am Chandni 🌙 ! Naam Toh Suna hi Hoga 😆
 
-# How Can I contribute to your Repo 
+### How Can I contribute to your Repo 
 
 -> I can Train a Machine Learning 🤖 and Deep Learning Model 🎰 for you <br/>
 -> I can Make 🍵 a React website 💌 <br/>
@@ -9,17 +9,17 @@
 -> I can solve your logical 💡and analytical Problems 🧠<br/>
 -> I can contribute to your DSA 🪜 codes. <br/>
 
-# Wanna Motivate Me 
+### Wanna Motivate Me 
 
 -> Star ⭐ my project ⚓<br/>
 -> Provide me some goodies 💘<br/>
 -> Follow🚶 me on Github <br/>
 
-# What Attracts Me 
+### What Attracts Me 
 
 -> Kick in the work 👊<br/>
 
-# More About Me
+### More About Me
 
 -> Moody 😑 Foody 🥘 highly motivated 🤠 Amateur hardworking 🔨 lazy  😴 panda 🐼 Learning 🏹 and Growing 🟢<br/>
 -> Poetry 🖋️ is my way of expression 🦊<br/>
