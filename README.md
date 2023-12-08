@@ -1,6 +1,5 @@
 # Hi there 👋 I am Chandni 🌙 ! Naam Toh Suna hi Hoga 😆
-![](mygifi.gifi)
-<iframe src="https://giphy.com/embed/xMDYgudtQiOIp4ke86" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xMDYgudtQiOIp4ke86">via GIPHY</a></p>
+
 ### How Can I contribute to your Repo 
 
 -> I can Train a Machine Learning 🤖 and Deep Learning Model 🎰 for you <br/>
