@@ -1,5 +1,9 @@
 # Hi there 👋 I am Chandni 🌙 ! Naam Toh Suna hi Hoga 😆
 ![](cute-girl-lovely.mp4)
+
+https://github.com/ChandniJha630/ChandniJha630/assets/96429544/a0d05369-d14a-44e7-ac0f-fd70289db26d
+
+
 ### How Can I contribute to your Repo 
 
 -> I can Train a Machine Learning 🤖 and Deep Learning Model 🎰 for you <br/>
