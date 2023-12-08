@@ -1,8 +1,5 @@
 # Hi there 👋 I am Chandni 🌙 ! Naam Toh Suna hi Hoga 😆
-![](cute-girl-lovely.mp4)
-
-https://github.com/ChandniJha630/ChandniJha630/assets/96429544/a0d05369-d14a-44e7-ac0f-fd70289db26d
-
+![](mygifi.gifi)
 
 ### How Can I contribute to your Repo 
 
