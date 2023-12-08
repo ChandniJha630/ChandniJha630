@@ -2,28 +2,28 @@
 
 # How Can I contribute to your Repo 
 
--> I can Train a Machine Learning 🤖 and Deep Learning Model 🎰 for you __
--> I can Make 🍵 a React website 💌 __
--> I can fix bugs 🐛 in C, C++, Javascript 🍵, Python 🐍__
--> I can make beautiful 💕 UI/UX 💙 (check my portfolio to know the magic I could bring )__
--> I can solve your logical 💡and analytical Problems 🧠__
--> I can contribute to your DSA 🪜 codes. __
+-> I can Train a Machine Learning 🤖 and Deep Learning Model 🎰 for you <br/>
+-> I can Make 🍵 a React website 💌 <br/>
+-> I can fix bugs 🐛 in C, C++, Javascript 🍵, Python 🐍<br/>
+-> I can make beautiful 💕 UI/UX 💙 (check my portfolio to know the magic I could bring )<br/>
+-> I can solve your logical 💡and analytical Problems 🧠<br/>
+-> I can contribute to your DSA 🪜 codes. <br/>
 
 # Wanna Motivate Me 
 
--> Star ⭐ my project ⚓__
--> Provide me some goodies 💘__
--> Follow🚶 me on Github __
+-> Star ⭐ my project ⚓<br/>
+-> Provide me some goodies 💘<br/>
+-> Follow🚶 me on Github <br/>
 
 # What Attracts Me 
 
--> Kick in the work 👊__
+-> Kick in the work 👊<br/>
 
 # More About Me
 
--> Moody 😑 Foody 🥘 highly motivated 🤠 Amateur hardworking 🔨 lazy  😴 panda 🐼 Learning 🏹 and Growing 🟢__
--> Poetry 🖋️ is my way of expression 🦊__
--> Open To work 💻🖱️__
+-> Moody 😑 Foody 🥘 highly motivated 🤠 Amateur hardworking 🔨 lazy  😴 panda 🐼 Learning 🏹 and Growing 🟢<br/>
+-> Poetry 🖋️ is my way of expression 🦊<br/>
+-> Open To work 💻🖱️<br/>
 
 
 
