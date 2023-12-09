@@ -1,5 +1,6 @@
-<img align="center" alt="coding" width="800" src="https://www.linkedin.com/in/chandni-jha-831987211/overlay/background-image/">
+
 <h1 align="center">Hi 👋, I'm Chandni</h1>
+<img align="center" alt="coding" width="800" src="https://wallpapercave.com/wp/wp6115045.jpg">
 <h3 align="center">A passionate Frontend Developer + Machine Learning Engineer + Software Developer from India</h3>
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 <p align="left"> <a href="https://twitter.com/chandni95600362" target="blank"><img src="https://img.shields.io/twitter/follow/chandni95600362?logo=twitter&style=for-the-badge" alt="chandni95600362" /></a> </p>
