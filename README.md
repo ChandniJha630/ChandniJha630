@@ -1,25 +1,35 @@
 
-<h1 align="center">Hi 👋, I'm Chandni</h1>
-<img align="center" alt="coding" width="800" src="https://wallpapercave.com/wp/wp6115045.jpg">
-<h3 align="center">A passionate Frontend Developer + Machine Learning Engineer + Software Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Chandni 🌙 Name Toh Suna 👂 hi Hoga 😆</h1>
+
+<h3 align="center">A passionate Software Developer </h3>
+<img align="center" alt="coding" width="1200" src="https://wallpapercave.com/wp/wp6115045.jpg">
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 <p align="left"> <a href="https://twitter.com/chandni95600362" target="blank"><img src="https://img.shields.io/twitter/follow/chandni95600362?logo=twitter&style=for-the-badge" alt="chandni95600362" /></a> </p>
 
-- 🔭 I’m currently working on [Blogging Website](https://blogging-website-psi.vercel.app/)
+### How Can I contribute to your Repo 
 
-- 🌱 I’m currently learning **many more technologies**
+-> I can Train a Machine Learning 🤖 and Deep Learning Model 🎰 for you <br/>
+-> I can Make 🍵 a React website 💌 <br/>
+-> I can fix bugs 🐛 in C, C++, Javascript 🍵, Python 🐍<br/>
+-> I can make beautiful 💕 UI/UX 💙 (check my portfolio to know the magic I could bring )<br/>
+-> I can solve your logical 💡and analytical Problems 🧠<br/>
+-> I can contribute to your DSA 🪜 codes. <br/>
 
-- 👯 I’m looking to collaborate on **Frontend and ML projects**
+### Wanna Motivate Me 
 
-- 🤝 I’m looking for help with **Open Source Projects**
+-> Star ⭐ my project ⚓<br/>
+-> Provide me some goodies 💘<br/>
+-> Follow🚶 me on Github <br/>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ChandniJha630/React-Portfolio](https://github.com/ChandniJha630/React-Portfolio)
+### What Attracts Me 
 
-- 💬 Ask me about **React, C, C++, Python, Javascript**
+-> Kick in the work 👊<br/>
 
-- 📫 How to reach me **chandnijha630@gmail.com**
+### More About Me
 
-- ⚡ Fun fact **Moody 😑 Foody 🥘 highly motivated 🤠 Amateur hardworking 🔨 lazy 😴 panda 🐼 Learning 🏹 and Growing 🟢**
+-> Moody 😑 Foody 🥘 highly motivated 🤠 Amateur hardworking 🔨 lazy  😴 panda 🐼 Learning 🏹 and Growing 🟢<br/>
+-> Poetry 🖋️ is my way of expression 🦊<br/>
+-> Open To work 💻🖱️<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
