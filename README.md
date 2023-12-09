@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="1200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fhd-wallpaper-desktop-eubxq&psig=AOvVaw2nmM6kjHXjc-S_c_one5Gb&ust=1702192258736000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCoxsfmgYMDFQAAAAAdAAAAABAK">
+<img align="center" alt="coding" width="1200" src="https://www.linkedin.com/in/chandni-jha-831987211/overlay/background-image/">
 <h1 align="center">Hi 👋, I'm Chandni</h1>
 <h3 align="center">A passionate Frontend Developer + Machine Learning Engineer + Software Developer from India</h3>
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
