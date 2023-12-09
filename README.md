@@ -1,7 +1,5 @@
 
-![](https://github.com/ChandniJha630/ChandniJha630/blob/main/ezgif-1-2d3eb41de3.gif)
 <h1 align="center">Hi 👋, I'm Chandni 🌙 Name Toh Suna 👂 hi Hoga 😆</h1>
-
 <h3 align="center">A passionate Software Developer </h3>
 <img align="center" alt="banner" width="1000" src="https://github.com/ChandniJha630/ChandniJha630/ezgif-1-2d3eb41de3.gif">
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
