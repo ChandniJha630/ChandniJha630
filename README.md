@@ -1,6 +1,6 @@
 
 <h1 align="center" >Hi 👋, I'm Chandni 🌙</h1>
-<img align="center" alt="banner" width="1000" hieght="400" src="https://media.licdn.com/dms/image/D4D22AQGCXMvpYE8U0w/feedshare-shrink_800/0/1702112901357?e=1704931200&v=beta&t=VIrzFjO4n1ATdgbR91Nz3AivJQpXAU-o98jCw2Ag0Xc">
+<img align="center" alt="banner" width="1500" hieght="400" src="https://media.licdn.com/dms/image/D4D22AQGCXMvpYE8U0w/feedshare-shrink_800/0/1702112901357?e=1704931200&v=beta&t=VIrzFjO4n1ATdgbR91Nz3AivJQpXAU-o98jCw2Ag0Xc">
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 <p align="left"> <a href="https://twitter.com/chandni95600362" target="blank"><img src="https://img.shields.io/twitter/follow/chandni95600362?logo=twitter&style=for-the-badge" alt="chandni95600362" /></a> </p>
 
