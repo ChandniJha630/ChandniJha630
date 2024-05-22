@@ -7,7 +7,7 @@
 ### How Can I contribute to your Repo 
 
 -> I can Train a Machine Learning 🤖 and Deep Learning Model 🎰 for you <br/>
--> I can Make 🍵 a React website 💌 <br/>
+-> I can Make 🍵 a MERN Stack website 💌 <br/>
 -> I can fix bugs 🐛 in C, C++, Javascript 🍵, Python 🐍<br/>
 -> I can make beautiful 💕 UI/UX 💙 (check my portfolio to know the magic I could bring )<br/>
 -> I can solve your logical 💡and analytical Problems 🧠<br/>
